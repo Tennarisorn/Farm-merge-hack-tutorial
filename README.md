@@ -15,6 +15,10 @@ step 6: on "scope" section change amount and id. example id="gems", amount=99999
 
 ##done
 
+there are more functions like tarket functions where you can edit any merging into anything you want, 
+
+if you want to know about this lemme know thru discord or something
+
 ![image](https://github.com/user-attachments/assets/fd836e87-8d11-474b-bca0-940dfa7619e7)
 ![image](https://github.com/user-attachments/assets/92829eb0-0539-41bc-b501-ba531aca746c)
 
