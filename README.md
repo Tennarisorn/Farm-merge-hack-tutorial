@@ -14,3 +14,4 @@ step 5: click on any resources that collectable
 step 6: on "scope" section change amount and id. example id="gems", amount=99999999
 
 ##done
+![Uploading image.png…]()
