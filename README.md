@@ -16,4 +16,5 @@ step 6: on "scope" section change amount and id. example id="gems", amount=99999
 ##done
 
 ![image](https://github.com/user-attachments/assets/fd836e87-8d11-474b-bca0-940dfa7619e7)
+![image](https://github.com/user-attachments/assets/92829eb0-0539-41bc-b501-ba531aca746c)
 
